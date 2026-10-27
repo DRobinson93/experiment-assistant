@@ -1,0 +1,60 @@
+{
+  "note": "Synthetic data for a personal project. None of these experiments or numbers are real.",
+  "today": "2026-10-09",
+  "experiments": [
+    {
+      "id": "x101",
+      "name": "Homepage hero headline",
+      "status": "completed",
+      "endDate": "2026-09-12",
+      "pValue": 0.004,
+      "control": { "visitors": 12000, "conversions": 600 },
+      "variant": { "visitors": 12000, "conversions": 708 }
+    },
+    {
+      "id": "x102",
+      "name": "Checkout button copy",
+      "status": "completed",
+      "endDate": "2026-09-20",
+      "pValue": 0.62,
+      "control": { "visitors": 8000, "conversions": 400 },
+      "variant": { "visitors": 8000, "conversions": 416 }
+    },
+    {
+      "id": "x103",
+      "name": "Offer banner placement",
+      "status": "running",
+      "startDate": "2026-09-30",
+      "pValue": 0.03,
+      "control": { "visitors": 5000, "conversions": 250 },
+      "variant": { "visitors": 5000, "conversions": 300 }
+    },
+    {
+      "id": "x104",
+      "name": "Signup form length",
+      "status": "running",
+      "startDate": "2026-10-02",
+      "pValue": 0.41,
+      "control": { "visitors": 3000, "conversions": 150 },
+      "variant": { "visitors": 3000, "conversions": 135 }
+    },
+    {
+      "id": "x105",
+      "name": "Pricing page layout",
+      "status": "completed",
+      "endDate": "2026-08-28",
+      "pValue": 0.001,
+      "control": { "visitors": 9000, "conversions": 360 },
+      "variant": { "visitors": 9000, "conversions": 450 }
+    },
+    {
+      "id": "x106",
+      "name": "Email subject line",
+      "status": "completed",
+      "endDate": "2026-09-05",
+      "pValue": 0.35,
+      "control": { "visitors": 20000, "conversions": 800 },
+      "variant": { "visitors": 20000, "conversions": 760 }
+    }
+  ]
+}
